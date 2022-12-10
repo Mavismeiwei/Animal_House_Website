@@ -23,7 +23,7 @@ export const donorRescue = [
 ];
 
 export const needHelp = [
-  'Bay-zuban is battling COVID-19',
+  'Animal House is battling COVID-19',
   'Your account',
   'Donations & rations',
   'Adoptions & shelters',

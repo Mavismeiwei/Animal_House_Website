@@ -25,10 +25,10 @@ const LeftContainer = () => {
           <LocalPhoneIcon /> +92 300 573879
         </span>
         <span className='flex items-center gap-3'>
-          <EmailIcon /> bezubaan@gmail.com
+          <EmailIcon /> 6150animalhouse@gmail.com
         </span>
         <span className='flex items-center gap-3'>
-          <LocationOnIcon /> F-19, Saddar, Karachi, Pakistan.
+          <LocationOnIcon /> Northeastern University。
         </span>
       </div>
       <Icons />
