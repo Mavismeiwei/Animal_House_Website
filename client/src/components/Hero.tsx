@@ -21,7 +21,7 @@ const Hero = () => {
           <h2 className='text-base sm:text-lg md:text-xl font-medium text-justify'>
             Animal House has been working for almost a decade now and since day our
             ambition was to safeguard the interests of those who cannot speak
-            for themselves. We at bay-zuban are proud of what we do and will
+            for themselves. We at Animal House are proud of what we do and will
             continue to do so till god wills.
           </h2>
         </div>

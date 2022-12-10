@@ -18,43 +18,44 @@
 - Database：MongoDB
 
 ## :host for app: Heroku
-
+- https://animalhouse6150.herokuapp.com/
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/heroku.jpeg)
 
 ## :pages:
 ### User Register & Login page
 - with password encryption
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/login%26register.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/login%26register.png)
 
 ### Home Page
 - After login, user can land in the homepage to see the detail information.
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/home.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/home.png)
 
 ### Aboutus Page
 - Display our mission, vision and achievements, and the things we can do to help.
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/about.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/about.png)
 
 ### Services page
 - onlie shop & shopping cart
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/services.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/services.png)
 
 ### Events&Projects Page
 - Relevant events & Fundraisers 
 - Recent projects.
 - Lastest news
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/events.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/events.png)
 
 ### Adoption Page
 - Display available animal for adoption.
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/adoption.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/adoption.png)
 
 
 ### Contact Us Page
 - There's our contact phone number, email and address. User can also contact us by submitting message.
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/contact.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/contact.png)
 
 ### System Admin Page
 - CRUD the pets
-![](https://github.com/Lbitwd/INFO6150-final/blob/ShuyaYang/screenshots/system.png)
+![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/system.png)
 
 
 
