@@ -1,27 +1,27 @@
-# :Final Project: Animal House
+# Final Project: Animal House
 *Animal House* an animal rescue portal where you can adopt different pet as well as put multiple pets up for adoption. The portal has an admin and nomral user views where admin can add and delete pets whereas user can only view them or adopt them.  
 
-# ：Team Member：
+# Team Member：
 - Shuya Yang   002776789
 - Fanye Sun    002763553
 - Qing Zhang   002700126
 - Meiwei Zhang 002685306
 
-## :Roles: Users & Admin
+## Roles: Users & Admin
 - User registration & login & adopt animals
 - Admin adds & deletes animals 
 
-## :Technical Stack
+## Technical Stack
 - Fronted Interface：HTML，CSS，Bootstrap，JavaScript，TypeScript
 - Fronted Framework：React JS，TailwindCss
 - Backend Tech：Node JS，Axios，Redux
 - Database：MongoDB
 
-## :host for app: Heroku
+## host for app: Heroku
 - https://animalhouse6150.herokuapp.com/
 ![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/heroku.jpeg)
 
-## :pages:
+## pages:
 ### User Register & Login page
 - with password encryption
 ![](https://github.com/qingzzzhang/INFO6150_Web_Design_and_User_Experience_2022_finalproject/blob/main/screenshots/login%26register.png)
