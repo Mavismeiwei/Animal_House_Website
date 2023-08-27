@@ -1,4 +1,4 @@
-# Final Project: Animal House
+# Animal House Website
 *Animal House* an animal rescue portal where you can adopt different pet as well as put multiple pets up for adoption. The portal has an admin and nomral user views where admin can add and delete pets whereas user can only view them or adopt them.  
 
 ## Roles: Users & Admin
